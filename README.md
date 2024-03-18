@@ -1,5 +1,5 @@
 # echo-chatbot
-Echo is a company assistant AI chat bot powered by OpenAI, LangChain and Pinecone.
+Echo is a company assistant AI chat bot powered by OpenAI, LangChain and Pinecone. Echo was built using Sveltekit and Firebase.
 
 # create-svelte
 
